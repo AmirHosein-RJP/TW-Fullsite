@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: Proxi;
+    src: url(../font/Montserrat-VariableFont_wght.ttf);
+}
+@font-face {
+    font-family: Constructivist;
+    src: url(../font/P22-Constructivist-Block-Regular.ttf);
+}
+@font-face {
+    font-family: Bifur;
+    src: url(../font/P22-Bifur-A.otf);
+}
